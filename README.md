@@ -49,7 +49,7 @@ This project uses Apache Airflow to build an automated data pipeline that extrac
 ### Installation  
 1. Clone the repository:  
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/eben-quayson/stadia_pipeline.git>
    cd stadium-pipeline
 
 
